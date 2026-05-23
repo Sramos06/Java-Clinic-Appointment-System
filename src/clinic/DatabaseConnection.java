@@ -21,7 +21,7 @@ public class DatabaseConnection {
     // TODO: Change "YourPasswordHere" to your actual MySQL password!
     private static final String DB_URL      = "jdbc:mysql://localhost:3306/clinic_db";
     private static final String DB_USER     = "root";
-    private static final String DB_PASSWORD = "Sramos06!";
+    private static final String DB_PASSWORD = "password";
 
     /**
      * Get a new database connection.
