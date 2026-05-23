@@ -51,4 +51,4 @@ Made for learning, not for production!
 ---
 
 **If you're here to learn JDBC:** Focus on `DatabaseConnection.java` and how it talks to MySQL.  
-**If you're here to copy for your project:** Good luck explaining the code 😂
+
